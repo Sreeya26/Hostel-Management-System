@@ -1,0 +1,20 @@
+
+
+Sno - 1
+Name - sreeya
+Age - 20
+Qualifications - BE
+Father's name - yadagiri
+Father's Number - 9390566128
+Residency - Hyderabad
+Duration of course - 20 days
+
+
+Sno - 2
+Name - Shradha
+Age - 25
+Qualifications - Mtech
+Father's name - Boni kapoor
+Father's Number - 9999999999
+Residency - Mumbai
+Duration of course - 20 days
